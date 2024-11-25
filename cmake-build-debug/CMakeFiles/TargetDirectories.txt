@@ -1,0 +1,3 @@
+C:/Users/pc/CLionProjects/Task 5 Pointer-based Linked List Operations/cmake-build-debug/CMakeFiles/Task_5_Pointer_based_Linked_List_Operations.dir
+C:/Users/pc/CLionProjects/Task 5 Pointer-based Linked List Operations/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pc/CLionProjects/Task 5 Pointer-based Linked List Operations/cmake-build-debug/CMakeFiles/rebuild_cache.dir
